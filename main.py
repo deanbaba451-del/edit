@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 from telegram.constants import ChatMemberStatus
 
 # --- Yapılandırma ---
-TOKEN = "8753063580:AAHCUjFkDAGSAoWVMvp5cF6F6rTzryEsMMA"
+TOKEN = "8724746842:AAEcoWNwV2x4ZgK2OCUqy-hLyPWsfJUzr2o"
 PORT = int(os.environ.get("PORT", 8080))
 
 # --- Grup bazlı durum takibi ---
